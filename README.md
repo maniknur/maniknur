@@ -28,7 +28,8 @@ focused on **smart contracts, execution logic, and infrastructure**.
 - **Telvia Finance** — Web3 / DeFi Protocol Experiments  
   https://github.com/Telvia-Finance
 
-- **Nuvia Labs** — Blockchain & Infrastructure Research  
+- **Nuvia Labs** — DeFi Infrastructure (🏆 Builder Track Winner on Base Chain)  
+  Winner of **Base Builder Track – DeFi Category**  
   https://github.com/Nuvia-Labs
 
 ---
@@ -65,6 +66,7 @@ focused on **smart contracts, execution logic, and infrastructure**.
 
 ## 📫 Contact
 - GitHub: https://github.com/maniknur
+- Email: maniknurhadi@students.amikom.ac.id
 
 ---
 
