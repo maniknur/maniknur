@@ -22,11 +22,6 @@ focused on **smart contracts, execution logic, and infrastructure**.
 ---
 
 ## 🚀 Active Projects
-- **MALGIST** — DeFi Strategy Execution Platform  
-  https://github.com/malgist
-
-- **Telvia Finance** — Web3 / DeFi Protocol Experiments  
-  https://github.com/Telvia-Finance
 
 - **Nuvia Labs** — DeFi Infrastructure (🏆 Builder Track Winner on Base Chain)  
   Winner of **Base Builder Track – DeFi Category**  
